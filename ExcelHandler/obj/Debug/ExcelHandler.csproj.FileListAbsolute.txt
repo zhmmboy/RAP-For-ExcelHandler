@@ -1,0 +1,15 @@
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\bin\Debug\ExcelHandler.exe.config
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\bin\Debug\ExcelHandler.exe.manifest
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\bin\Debug\ExcelHandler.application
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\bin\Debug\ExcelHandler.exe
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\bin\Debug\ExcelHandler.pdb
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.Form1.resources
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.Properties.Resources.resources
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.csproj.GenerateResource.cache
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.csproj.CoreCompileInputs.cache
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.exe.manifest
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.application
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.csproj.CopyComplete
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.exe
+E:\高知特\RPA处理Excel小程序-WinForm\ExcelHandler\ExcelHandler\obj\Debug\ExcelHandler.pdb
